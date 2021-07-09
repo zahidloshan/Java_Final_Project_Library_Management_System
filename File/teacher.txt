@@ -1,0 +1,3 @@
+Abdul Sattar     5000     CS     abdulsattar@yahoo.com     0152639855     90000.0     Dhaka
+Nur Uddin     5001     CS     nuruddin@gmail.com     01789556362     602000.0     Dhaka
+Faysal Khandakar     5002     Math     faysal@gmail.com     0163254698     80000.0     Dhaka

@@ -1,0 +1,3 @@
+6000     COA     Assembly Language     300.0     7000     Amit Garg     amitgarg@gamil.com     8000      MCA Department     0145269877
+6001     Mobile Computing     Mobile Computer     200.0     7001     Vinay Kumar Singhal     vinay@gmail.com     8001     K Nath & Sons     01485263972
+6002     Data Structure Using C     Data Structure     400.0     7002     Sharad Kumar Verma     sharad4@yahoo.com     8002     Thakur Publications Lucknow     01789563245

@@ -1,0 +1,9 @@
+Ariyan Meheraf     1000     EEE     Mostufa Saruyar     1003     Dhaka
+AL-AMIN     1001     CSE     AMINULLAH AMINUL     01635248795     Dhaka
+FARHAZ ISLAM     1002     CSE     MAHMUDULLAH RIYAD     014526348989     Dhaka
+NUSRAT ALAM     1003     EEE     SHARMIN AKTAR     01896385214     MYMENSINGH
+PUSHPITA AKTAR     1004     CSE     SHAHADAT HOSSAIN     019635214897     Sylhet
+FARHAZ HASAN     1005     CSE     MUINAD-DIN     01685293642     Dhaka
+Hasin Hasnat     1006     EEE     Iqubal Ali     01563214853     Dhaka
+Ashik Rahman     1007     CSE     Ajhar Rahaman     01485933555     Dhaka
+Sumaiya Aktar     1008     EEE     Fatema Akter     018963245588     Dhaka
